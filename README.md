@@ -4,10 +4,6 @@
 
 [Full Slider](http://startbootstrap.com/template-overviews/full-slider/) is an HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features a full page image slider header with captions.
 
-## Preview
-
-[![Full Slider Preview](https://startbootstrap.com/assets/img/templates/full-slider.jpg)](https://blackrockdigital.github.io/startbootstrap-full-slider/)
-
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-full-slider/master/LICENSE)
